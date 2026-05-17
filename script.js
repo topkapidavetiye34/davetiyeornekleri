@@ -1,395 +1,395 @@
 // Products data embedded directly to avoid CORS issues
 const productsData = [
-  {
-    "kategori": "Normal",
-    "urunler": [
-      {
-        "urun_kodu": "1101",
-        "fiyat": "748, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "3026",
-        "fiyat": "1448, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2375",
-        "fiyat": "398, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2575",
-        "fiyat": "788, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "3800",
-        "fiyat": "848, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "5005",
-        "fiyat": "1590, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "5025",
-        "fiyat": "1390, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "5040",
-        "fiyat": "1350, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "5045",
-        "fiyat": "1390, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "5066",
-        "fiyat": "1450, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "5085",
-        "fiyat": "1590, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "5100",
-        "fiyat": "1090, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "5109",
-        "fiyat": "1190, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1258",
-        "fiyat": "488, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1234",
-        "fiyat": "298, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1301",
-        "fiyat": "688, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1323",
-        "fiyat": "588, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1337",
-        "fiyat": "698, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1434",
-        "fiyat": "698, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1445",
-        "fiyat": "945, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1480",
-        "fiyat": "418, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1535",
-        "fiyat": "358, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1583",
-        "fiyat": "688, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1611",
-        "fiyat": "688, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1617",
-        "fiyat": "688, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1618",
-        "fiyat": "298, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1619",
-        "fiyat": "298, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1620",
-        "fiyat": "298, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1735",
-        "fiyat": "688, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1819",
-        "fiyat": "388, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1827",
-        "fiyat": "428, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2001",
-        "fiyat": "688, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2005",
-        "fiyat": "738, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2008",
-        "fiyat": "548, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2009",
-        "fiyat": "488, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2015",
-        "fiyat": "538, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2018",
-        "fiyat": "498, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2032",
-        "fiyat": "558, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2033",
-        "fiyat": "458, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2059",
-        "fiyat": "288, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2069",
-        "fiyat": "288, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2072",
-        "fiyat": "268, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2073",
-        "fiyat": "268, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2080",
-        "fiyat": "288, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2085",
-        "fiyat": "288, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2086",
-        "fiyat": "288, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2088",
-        "fiyat": "288, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2091",
-        "fiyat": "238, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2093",
-        "fiyat": "238, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2095",
-        "fiyat": "238, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2096",
-        "fiyat": "238, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2097",
-        "fiyat": "288, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2098",
-        "fiyat": "288, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2150",
-        "fiyat": "358, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2355",
-        "fiyat": "398, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2360",
-        "fiyat": "398, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2365",
-        "fiyat": "398, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "2370",
-        "fiyat": "398, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "3023-Mühürsüz",
-        "fiyat": "968, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "3026-Mühürsüz",
-        "fiyat": "1148, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "3052",
-        "fiyat": "298, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "3056",
-        "fiyat": "788, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "3228",
-        "fiyat": "398, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "4039",
-        "fiyat": "838, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "4040",
-        "fiyat": "298, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "4041",
-        "fiyat": "298, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "4045",
-        "fiyat": "598, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "4047",
-        "fiyat": "598, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "4155",
-        "fiyat": "358, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "4185",
-        "fiyat": "358, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "4542",
-        "fiyat": "398, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "3023",
-        "fiyat": "1268, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1357",
-        "fiyat": "458, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1429",
-        "fiyat": "548, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1453",
-        "fiyat": "548, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1530",
-        "fiyat": "358, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1177",
-        "fiyat": "688, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1231",
-        "fiyat": "298, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1360",
-        "fiyat": "458, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1026",
-        "fiyat": "338, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1035",
-        "fiyat": "338, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1038",
-        "fiyat": "338, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1072",
-        "fiyat": "338, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1085",
-        "fiyat": "338, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1040",
-        "fiyat": "338, 00 TL  (100 Adet)"
-      }
-    ]
-  },
-  {
-    "kategori": "Sunnet",
-    "urunler": [
-      {
-        "urun_kodu": "1001",
-        "fiyat": "398, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1002",
-        "fiyat": "238, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1003",
-        "fiyat": "238, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1004",
-        "fiyat": "398, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1005",
-        "fiyat": "338, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1006",
-        "fiyat": "338, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1007",
-        "fiyat": "538, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1008",
-        "fiyat": "538, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "1009",
-        "fiyat": "698, 00 TL  (100 Adet)"
-      },
-      {
-        "urun_kodu": "5035",
-        "fiyat": "1490, 00 TL  (100 Adet)"
-      }
-    ]
-  }
+    {
+        "kategori":  "Normal",
+        "urunler":  [
+                        {
+                            "urun_kodu":  "1101",
+                            "fiyat":  "895, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "3026",
+                            "fiyat":  "1388, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2375",
+                            "fiyat":  "458, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2575",
+                            "fiyat":  "894, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "3800",
+                            "fiyat":  "928, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "5005",
+                            "fiyat":  "1890, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "5025",
+                            "fiyat":  "1590, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "5040",
+                            "fiyat":  "1550, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "5045",
+                            "fiyat":  "1590, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "5066",
+                            "fiyat":  "1690, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "5085",
+                            "fiyat":  "1890, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "5100",
+                            "fiyat":  "1290, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "5109",
+                            "fiyat":  "1390, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1258",
+                            "fiyat":  "588, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1234",
+                            "fiyat":  "398, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1301",
+                            "fiyat":  "748, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1323",
+                            "fiyat":  "648, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1337",
+                            "fiyat":  "788, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1434",
+                            "fiyat":  "748, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1445",
+                            "fiyat":  "1090, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1480",
+                            "fiyat":  "490, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1535",
+                            "fiyat":  "398, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1583",
+                            "fiyat":  "848, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1611",
+                            "fiyat":  "848, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1617",
+                            "fiyat":  "848, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1618",
+                            "fiyat":  "358, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1619",
+                            "fiyat":  "348, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1620",
+                            "fiyat":  "348, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1735",
+                            "fiyat":  "720, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1819",
+                            "fiyat":  "485, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1827",
+                            "fiyat":  "538, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2001",
+                            "fiyat":  "720, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2005",
+                            "fiyat":  "838, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2008",
+                            "fiyat":  "648, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2009",
+                            "fiyat":  "588, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2015",
+                            "fiyat":  "622, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2018",
+                            "fiyat":  "578, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2032",
+                            "fiyat":  "668, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2033",
+                            "fiyat":  "558, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2059",
+                            "fiyat":  "324, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2069",
+                            "fiyat":  "324, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2072",
+                            "fiyat":  "298, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2073",
+                            "fiyat":  "298, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2080",
+                            "fiyat":  "320, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2085",
+                            "fiyat":  "320, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2086",
+                            "fiyat":  "320, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2088",
+                            "fiyat":  "320, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2091",
+                            "fiyat":  "248, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2093",
+                            "fiyat":  "248, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2095",
+                            "fiyat":  "248, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2096",
+                            "fiyat":  "248, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2097",
+                            "fiyat":  "320, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2098",
+                            "fiyat":  "320, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2150",
+                            "fiyat":  "398, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2355",
+                            "fiyat":  "458, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2360",
+                            "fiyat":  "458, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2365",
+                            "fiyat":  "458, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "2370",
+                            "fiyat":  "458, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "3023-Mühürsüz",
+                            "fiyat":  "968, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "3026-Mühürsüz",
+                            "fiyat":  "1148, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "3052",
+                            "fiyat":  "360, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "3056",
+                            "fiyat":  "988, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "3228",
+                            "fiyat":  "498, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "4039",
+                            "fiyat":  "980, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "4040",
+                            "fiyat":  "350, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "4041",
+                            "fiyat":  "350, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "4045",
+                            "fiyat":  "688, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "4047",
+                            "fiyat":  "688, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "4155",
+                            "fiyat":  "398, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "4185",
+                            "fiyat":  "398, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "4542",
+                            "fiyat":  "498, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "3023",
+                            "fiyat":  "1098, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1357",
+                            "fiyat":  "540, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1429",
+                            "fiyat":  "648, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1453",
+                            "fiyat":  "648, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1530",
+                            "fiyat":  "398, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1177",
+                            "fiyat":  "880, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1231",
+                            "fiyat":  "398, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1360",
+                            "fiyat":  "540, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1026",
+                            "fiyat":  "418, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1035",
+                            "fiyat":  "418, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1038",
+                            "fiyat":  "418, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1072",
+                            "fiyat":  "418, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1085",
+                            "fiyat":  "418, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1040",
+                            "fiyat":  "418, 00 TL  (100 Adet)"
+                        }
+                    ]
+    },
+    {
+        "kategori":  "Sunnet",
+        "urunler":  [
+                        {
+                            "urun_kodu":  "1001",
+                            "fiyat":  "488, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1002",
+                            "fiyat":  "248, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1003",
+                            "fiyat":  "248, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1004",
+                            "fiyat":  "488, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1005",
+                            "fiyat":  "418, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1006",
+                            "fiyat":  "418, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1007",
+                            "fiyat":  "590, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1008",
+                            "fiyat":  "590, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "1009",
+                            "fiyat":  "848, 00 TL  (100 Adet)"
+                        },
+                        {
+                            "urun_kodu":  "5035",
+                            "fiyat":  "1690, 00 TL  (100 Adet)"
+                        }
+                    ]
+    }
 ];
 
 console.log('Products data loaded:', productsData);
